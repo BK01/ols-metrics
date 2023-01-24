@@ -12,13 +12,16 @@ Instructions:
  1. Start menu -> Run -> Type 'cmd'
  2. Navigate to the folder where this script is located
 
-        python <Script_name.py> <db user name> <db password> <CSV filename>
+        python <Script_name.py> <db user name> <db password>
+                                <db host> <db name> <db port>
+                                <CSV filename>
                                 <workspace path including final slash>
 
 Example:
         python geocoderLogTable.py username123 pasword123
+                                   localhost myPostgresDB 5432
                                    GEOCODER_API_LOG_12-2022.csv
-                                   H:\DataBC\analytics_LOC_log_table\
+                                   X:\workspace\analytics_LOC_log_table\
 
 Assumptions:
 
