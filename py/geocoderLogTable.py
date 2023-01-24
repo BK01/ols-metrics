@@ -18,7 +18,7 @@ Instructions:
 
 Example:
         python geocoderLogTable.py 12-2022
-                                   H:\DataBC\analytics_LOC_log_table\
+                                   X:\workspace\analytics_LOC_log_table\
 
 Assumptions:
 
