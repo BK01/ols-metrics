@@ -5,6 +5,7 @@ This repository is home to the Location Services API metrics toolkit which inclu
 
 ## Technologies:
 
-* Host: OpenShift
+* Dashboard: Power BI Desktop
 * Database: PostgreSQL 15
+* Host: OpenShift
 * Scripts: Python 3.9
