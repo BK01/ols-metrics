@@ -31,7 +31,7 @@ Assumptions:
 
 # IMPORT MODULES
 
-from logFunctions_2 import (
+from logFunctions import (
     apiKeyParameter,
     assembleList,
     convertTimeStamp,
