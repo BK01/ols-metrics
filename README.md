@@ -6,4 +6,4 @@ This repository is home to the Location Services API metrics toolkit which inclu
 
 * Database: PostgreSQL 15
 * Host: OpenShift
-* Scripts: Python 3
+* Scripts: Python 3.9
